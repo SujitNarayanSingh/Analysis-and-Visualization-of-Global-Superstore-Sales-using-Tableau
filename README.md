@@ -4,6 +4,7 @@
 
 Profit by Category: A bar graph was generated to visualize the sales, discounts, and profit for each category (Furniture, Office Supplies, Technology). It was observed that despite heavy discounts, the Furniture category experienced a reduction in profit.
 
+
 Shipping Modes: A donut chart was used to represent the distribution of shipping modes. The "Standard Class" shipping mode emerged as the most popular choice, accounting for 60% of shipments.
 
 Sales by Segment: A bar graph was created to showcase the sales for different segments (Consumer, Corporate, Home Office). The consumer segment exhibited the highest sales, reaching 6,500,000 units.
